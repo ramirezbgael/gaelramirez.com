@@ -15,7 +15,7 @@ export default function About() {
           <div className="flex flex-col md:flex-row">
             <div className="md:w-1/3 flex-shrink-0">
               <img
-                src="assetts/img/gael.jpeg"
+                src="/assets/hero.jpeg"
                 alt="Gael Ramirez"
                 className="w-full aspect-square object-cover"
               />

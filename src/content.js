@@ -20,9 +20,9 @@ export const content = {
 
   // Hero
   artistName: 'GAEL RAMIREZ',
-  heroSubtitle: "",
+  heroSubtitle: "never about the money.",
   heroStory: [
-    'never about the money.'
+    ''
     ,
 
   ],
@@ -53,10 +53,10 @@ export const content = {
   ],
 
   // Follow
-  followTitle: 'Follow',
+  followTitle: 'Follow Closely',
   followSubtitle: "",
 
   // Footer
   footerBookings: 'Booking:',
-  footerBrand: 'NEVER ABOUT THE MONEY ©',
+  footerBrand: 'it was -NEVER ABOUT THE MONEY ©',
 }
